@@ -21,12 +21,12 @@ Artists and developers could use this technology to create interactive art displ
 Uses Mediapipe to detect hand landmarks with high accuracy.
 ### Mouse Control and Click Simulation:
 This system allows you to control the mouse cursor based on the position of your index finger. Additionally, it recognizes a pinch gesture (determined by the distance between the index and middle fingers) to simulate a mouse click
-
+![handtracking_github-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b4c604c6-4fd6-47ad-b826-ab68f685887b)
 ## Features
 - Hand gesture-based mouse control using a webcam.
 - Smooth mouse cursor movement.
 - Simulates mouse clicks based on the distance between the index and middle finger.
-![handtracking_github-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b4c604c6-4fd6-47ad-b826-ab68f685887b)
+
 
 ## Installation
 1. Clone the repository:
