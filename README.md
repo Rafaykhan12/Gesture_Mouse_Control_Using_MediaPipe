@@ -7,14 +7,16 @@ This project uses OpenCV, Mediapipe, and PyAutoGUI to control the mouse cursor a
 ## Use Case:
 This project could be useful in situations where touch-based interaction is not practical, for example:
 
-### Accessibility: 
-People with physical disabilities who have difficulty using traditional input devices like a mouse or keyboard can benefit from this.
 ### Touch-Free Environments: 
 In healthcare or industrial environments, touchless control can reduce the risk of contamination.
 ### Public Presentations: 
 This system can be used for public presentations where a touchless way to control a computer is needed.
+### In public presentations:
+This system provides a touchless way to control a computer. For example, while explaining software like SolidWorks, where mouse use is crucial, you can demonstrate features without needing to physically use a mouse. This enables you to interact seamlessly with your screen while maintaining audience engagement.
 ### Interactive Art Installations: 
 Artists and developers could use this technology to create interactive art displays that react to user gestures.
+### Accessibility: 
+People with physical disabilities who have difficulty using traditional input devices like a mouse or keyboard can benefit from this.
 
 ## How the Project Works:
 ### Real-Time Hand Tracking: 
