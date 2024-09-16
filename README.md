@@ -16,6 +16,12 @@ This system can be used for public presentations where a touchless way to contro
 ### Interactive Art Installations: 
 Artists and developers could use this technology to create interactive art displays that react to user gestures.
 
+## How the Project Works:
+### Real-Time Hand Tracking: 
+Uses Mediapipe to detect hand landmarks with high accuracy.
+Mouse Cursor Control: Moves the mouse cursor based on the position of your hand, specifically your index finger.
+### Simulates Mouse Clicks: 
+Recognizes the pinch gesture (the distance between the index and middle finger) to simulate a mouse click.
 
 ## Features
 - Hand gesture-based mouse control using a webcam.
