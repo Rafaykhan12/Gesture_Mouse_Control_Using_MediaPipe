@@ -17,3 +17,13 @@ This project uses OpenCV, Mediapipe, and PyAutoGUI to control the mouse cursor a
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the Python script to start hand tracking and mouse control:
+   ```bash
+   python hand_tracking_mouse.py
+### 2. `requirements.txt`
+```txt
+opencv-python
+mediapipe
+pyautogui
+numpy
+mouse
