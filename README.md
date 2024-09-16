@@ -3,6 +3,20 @@ Control your mouse cursor and clicks using hand gestures detected by a webcam
 
 This project uses OpenCV, Mediapipe, and PyAutoGUI to control the mouse cursor and simulate mouse clicks based on hand gestures detected by a webcam. The system tracks hand landmarks, detects finger positions, and maps them to the screen for smooth cursor movement and click events.
 
+
+## Use Case:
+This project could be useful in situations where touch-based interaction is not practical, for example:
+
+### Accessibility: 
+People with physical disabilities who have difficulty using traditional input devices like a mouse or keyboard can benefit from this.
+### Touch-Free Environments: 
+In healthcare or industrial environments, touchless control can reduce the risk of contamination.
+### Public Presentations: 
+This system can be used for public presentations where a touchless way to control a computer is needed.
+### Interactive Art Installations: 
+Artists and developers could use this technology to create interactive art displays that react to user gestures.
+
+
 ## Features
 - Hand gesture-based mouse control using a webcam.
 - Smooth mouse cursor movement.
