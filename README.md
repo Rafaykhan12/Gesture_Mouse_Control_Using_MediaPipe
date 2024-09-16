@@ -8,3 +8,9 @@ This project uses OpenCV, Mediapipe, and PyAutoGUI to control the mouse cursor a
 - Smooth mouse cursor movement.
 - Simulates mouse clicks based on the distance between the index and middle finger.
 ![handtracking_github-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b4c604c6-4fd6-47ad-b826-ab68f685887b)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hand-tracking-mouse-control.git
+   cd hand-tracking-mouse-control
