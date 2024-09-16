@@ -9,9 +9,9 @@ This project could be useful in situations where touch-based interaction is not 
 
 ### Touch-Free Environments: 
 In healthcare or industrial environments, touchless control can reduce the risk of contamination.
-### Public Presentations: 
+### Presentations: 
 This system can be used for public presentations where a touchless way to control a computer is needed.
-### In public presentations:
+### In Giving Lectures:
 This system provides a touchless way to control a computer. For example, while explaining software like SolidWorks, where mouse use is crucial, you can demonstrate features without needing to physically use a mouse. This enables you to interact seamlessly with your screen while maintaining audience engagement.
 ### Interactive Art Installations: 
 Artists and developers could use this technology to create interactive art displays that react to user gestures.
