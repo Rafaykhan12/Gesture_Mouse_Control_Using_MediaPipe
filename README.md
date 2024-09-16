@@ -12,8 +12,8 @@ This project uses OpenCV, Mediapipe, and PyAutoGUI to control the mouse cursor a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hand-tracking-mouse-control.git
-   cd hand-tracking-mouse-control
+   git clone https://github.com/Rafaykhan12/Gesture_Mouse_Control_Using_MediaPipe.git
+   cd Gesture_Mouse_Control_Using_MediaPipe
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
