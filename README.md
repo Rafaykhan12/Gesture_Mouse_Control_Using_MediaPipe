@@ -27,3 +27,21 @@ mediapipe
 pyautogui
 numpy
 mouse
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Virtual environments
+env/
+venv/
+
+# IDE specific
+.vscode/
+.idea/
